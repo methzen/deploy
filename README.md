@@ -1,4 +1,5 @@
  NB for certbot installation phase see here https://certbot.eff.org/instructions?ws=nginx&os=ubuntufocal
+ Install Node js refer to this article: https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04
 # How To Deploy A Next.js Website To A DigitalOcean Server
 
 Are you looking for a way to deploy your Next.js website or application?
