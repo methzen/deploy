@@ -1,4 +1,4 @@
-
+ NB for certbot installation phase see here https://certbot.eff.org/instructions?ws=nginx&os=ubuntufocal
 # How To Deploy A Next.js Website To A DigitalOcean Server
 
 Are you looking for a way to deploy your Next.js website or application?
