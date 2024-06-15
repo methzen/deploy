@@ -42,6 +42,13 @@ In the first section, select the Ubuntu operating system for your server.
 Ubuntu 18.04 is the operating system used in this guide. If you use a different version of Ubuntu, some of the commands may differ from what's laid out in this guide.
 
 Then, choose the $5 per month standard plan, which will give your application plenty of computing power to start with. You can easily upgrade in the future if needed.
+![image](https://github.com/methzen/deploy/assets/88962886/dba86146-991e-4c6d-b246-06ab2646931b)
+
+![image](https://github.com/methzen/deploy/assets/88962886/b9a99ce8-6b8d-4c7c-83dd-e93d78838bc4)
+
+![image](https://github.com/methzen/deploy/assets/88962886/a98918df-b0ab-42bf-98b9-0ba58366a869)
+
+![image](https://github.com/methzen/deploy/assets/88962886/f2034d3c-f875-4782-90c6-4f7d199c24bc)
 
 ![DigitalOcean Create New Droplet Page - Select Plan](https://assets.coderrocketfuel.com/coding-blog-create-digitalocean-droplet-choose-plan.png)
 
