@@ -19,7 +19,9 @@ Let's get started!
 
 ## Step 1 - Create & Configure A New DigitalOcean Server
 
-Before we can do anything, we need to create and configure a VPS ([Virtual Private Server](https://en.wikipedia.org/wiki/Virtual_private_server)) in the cloud to host your Node.js application. There are a lot of companies that provide this service, but we'll use [DigitalOcean](https://m.do.co/c/ce20017d8588).
+Before we can do anything, we need to create and configure a VPS ([Virtual Private Server](https://en.wikipedia.org/wiki/Virtual_private_server)) in the cloud to host your Node.js application. There are a lot of companies that provide this service, but we'll use [DigitalOcean]
+![image](https://github.com/methzen/deploy/assets/88962886/a57b828b-7c32-4e5e-bbdc-aa6cbfed7c7b)
+(https://m.do.co/c/ce20017d8588).
 
 You can use any other VPS service provider you wish, but some of the steps in this tutorial will be slightly different for you.
 
